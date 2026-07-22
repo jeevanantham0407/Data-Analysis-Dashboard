@@ -8,10 +8,10 @@
  <a href="https://github.com/jeevanantham0407/Data-Analysis-Dashboard/blob/61b588011d05a4d18b73f2128f5ee9fa2bbed38a/Hospital%20ER_Data.csv">Dataset</a>
 
 ## KPI’s Requirements
-•	Number of Patients
-•	Average Wait Time
-•	Patient Satisfaction Score
-•	Number of Patients Referred
+•	 Number of Patients
+•	 Average Wait Time
+•	 Patient Satisfaction Score
+•	 Number of Patients Referred
 
 ## Dashboard 1: Monthly View 
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
