@@ -6,3 +6,9 @@
 
 ## Dataset Used 
  <a href="https://github.com/jeevanantham0407/Data-Analysis-Dashboard/blob/61b588011d05a4d18b73f2128f5ee9fa2bbed38a/Hospital%20ER_Data.csv">Dataset</a>
+
+## KPI’s Requirements
+•	Number of Patients
+•	Average Wait Time
+•	Patient Satisfaction Score
+•	Number of Patients Referred
