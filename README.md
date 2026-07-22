@@ -53,7 +53,7 @@ Charts to Develop: A grid displaying essential fields:
 6. Performance Analysis – Analyzed patient flow, referrals, wait times, demographics, and departmental trends to generate actionable insights.
 
 
-## Dashboards
+## Dashboards Location
 
 <a href="https://github.com/jeevanantham0407/Data-Analysis-Dashboard/blob/61b588011d05a4d18b73f2128f5ee9fa2bbed38a/Screenshot%20(129).png">Dashboard_1</a>
 
@@ -95,6 +95,23 @@ Insights
 -	Helps identify patients with longer wait times. 
 -	Tracks department referrals and admission status at the patient level. 
 -	Supports data validation, reporting, and detailed operational analysis. 
+
+# Dasboard Screenshots:
+
+## Dashboard 1: Monthly View
+
+<img width="1099" height="737" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/85cc422e-229a-40c2-a815-c9f8b8624d52" />
+
+## Dashboard 2: Consolidated View
+
+<img width="1084" height="731" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/4dd5e6d5-e862-4ce3-bf22-3cd98a967018" />
+
+## Dashboard 2: Patient Details
+
+<img width="1158" height="741" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/48ff3ff4-f013-4565-a025-87a6aa9f81ff" />
+
+
+
 
 
 
