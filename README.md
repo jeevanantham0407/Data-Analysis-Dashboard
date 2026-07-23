@@ -59,9 +59,7 @@ Charts to Develop: A grid displaying essential fields:
 
 <a href="https://github.com/jeevanantham0407/Data-Analysis-Dashboard/blob/61b588011d05a4d18b73f2128f5ee9fa2bbed38a/Screenshot%20(130).png">Dashboard_2</a>
 
-<a href="https://github.com/jeevanantham0407/Data-Analysis-Dashboard/blob/61b588011d05a4d18b73f2128f5ee9fa2bbed38a/Screenshot(131).png">Dashboard_3</a>
-
-
+<a href="https://github.com/jeevanantham0407/Data-Analysis-Dashboard/blob/main/Screenshot%20(131).png">Dashboard_3</a>
 
 # Project Insights
 
